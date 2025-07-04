@@ -1,7 +1,3 @@
-Berikut adalah contoh file `README.md` untuk proyek GitHub berdasarkan kode yang Anda berikan. README ini ditulis dalam bahasa Inggris dan diformat sesuai standar dokumentasi open-source:
-
----
-
 ````markdown
 # RambuSCAP12 - YOLOv8 Training & Object Tracking
 
