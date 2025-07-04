@@ -1,5 +1,5 @@
 ````markdown
-# RambuSCAP12 - YOLOv8 Training & Object Tracking
+# OLOv8 Training & Object Tracking No Praking Sign
 
 This repository contains code for training a YOLOv8 model using a custom dataset from Roboflow to detect traffic signs ("Rambu") and perform object tracking on video input.
 
